@@ -2066,7 +2066,9 @@ APP_CPANMINUS_SCRIPT
 
 $fatpacked{"App/cpantimes.pm"} = <<'APP_CPANTIMES';
   package App::cpantimes;
-  our $VERSION = "1.501801";
+  our $VERSION = "1.501802";
+  
+  =encoding utf8
   
   =head1 NAME
   
@@ -2136,7 +2138,7 @@ APP_CPANTIMES
 $fatpacked{"App/cpantimes/script.pm"} = <<'APP_CPANTIMES_SCRIPT';
   package App::cpantimes::script;
   
-  our $VERSION = "1.501801";
+  our $VERSION = "1.501802";
   
   use 5.008;
   use strict;
