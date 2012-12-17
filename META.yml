@@ -24,4 +24,4 @@ requires:
 resources:
   bugtracker: https://rt.cpan.org/Ticket/Create.html?Queue=App-cpantimes
   repository: https://bitbucket.org/tobyink/p5-app-cpantimes
-version: 1.501802
+version: 1.501803
