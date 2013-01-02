@@ -1,5 +1,5 @@
 package App::cpantimes;
-our $VERSION = "1.501804";
+our $VERSION = "1.501900";
 
 =encoding utf8
 
@@ -25,7 +25,7 @@ credits, etc.
 
 =head1 COPYRIGHT
 
-Copyright 2012 Toby Inkster.
+Copyright 2012-2013 Toby Inkster.
 
 The standalone executable contains the following modules embedded.
 
