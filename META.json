@@ -4,7 +4,7 @@
       "unknown"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -47,5 +47,5 @@
          "url" : "https://bitbucket.org/tobyink/p5-app-cpantimes"
       }
    },
-   "version" : "1.501900"
+   "version" : "1.501901"
 }
